@@ -1,5 +1,5 @@
 name = "my-first-workers-ai"
-compatibility_date = "2023-09-20"
+compatibility_date = "2023-12-03"
 
 rules = [
   { type = "Text", globs = ["**/assets/*.js"], fallthrough = true },
